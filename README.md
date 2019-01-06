@@ -1,1 +1,1 @@
-## New language for compiler construction
+## Cool is a Classroom Object-Oriented Language
